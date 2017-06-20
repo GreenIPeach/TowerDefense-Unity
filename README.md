@@ -6,7 +6,7 @@ This game is not finished yet.
 
 Here are some screenshots of the current state:
 
-### Incoming enmies and towers
+### Incoming enemies and towers
 ![Image with Towers and incoming enemies](https://github.com/GreenIPeach/TowerDefense-Unity/blob/master/images/TowerDefense01.png?raw=true "ingame")
 
 #### Start of the game
